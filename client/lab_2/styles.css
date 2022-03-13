@@ -118,6 +118,7 @@ nav a {
     display: block;
 }
 
+<<<<<<< HEAD
 .section_4:hover {
     background-color: blue;
 }
@@ -128,6 +129,14 @@ nav a {
     background-color: #ff8c00a6;
     padding: 10px 30px;
     max-width: 300px;
+=======
+.section_4 div.text{
+  display: block;
+  border-radius: 4px;
+  background-color: #ff8c00a6;
+  padding: 10px 30px;
+  max-width: 300px;
+>>>>>>> c2ebb02c022319d0c99ab4be015637226b8d23c6
 }
 
 .section_4 .text ul {
@@ -152,5 +161,9 @@ nav a {
 }
 
 .grid img {
+<<<<<<< HEAD
     width: 100px;
+=======
+  width: 100px;
+>>>>>>> c2ebb02c022319d0c99ab4be015637226b8d23c6
 }
